@@ -1,0 +1,12 @@
+{
+    "params":
+    {
+        "output_folder": "/home/shritam/Desktop/Bleezur/output/",
+        "log_dir": "/home/shritam/Desktop/Bleezur/log/",
+        "Mail_sender_id": "ishritam.ml@gmail.com",
+        "Mail_sender_password": "xxxxxxxxxxxxxx",
+        "Mail_receiver_id": "receiver mail id @gmail.com",
+        "company_name": "Apple_Inc",
+        "output_type": "JSON"
+    }
+}
